@@ -1,0 +1,13 @@
+Greenzonekicker@gmail.com
+M*z
+R10
+
+ToImport TFS version control files(*notecould have used subversion or other). Needed to:
+1. create an account in https://flazzgordon.visualstudio.com/_user by creating new Microsoft email: GittiHub@outlook.com and INVITING GittiHub@outlook.com(keep dropdown at basic or can be stakeholder or MSDN subscriber)
+2.checks email and gets one from VS Online to join link
+user sign-in address: GittiHub@outlook.com
+pwd:M*z
+
+3. Then going back to GitHub as Greenzonekicker@gmail.com, sign-in,import from yadayada or TFS
+put in GittiHub@outlook.com ;Mz as FlazzGordon VSOnline READ-Only account (i.e. basic) user.
+click Import

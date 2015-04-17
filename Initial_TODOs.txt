@@ -1,0 +1,6 @@
+1.get areas code from Toshiba 2010 web express
+2. figure how to set up Isolations in Areas andOr UnitTestin
+3.SetUp GitHub Rousseau10 Repository
+4. Get the htmlTable with table,JQuery2x, and Stylessheet and add it into project
+5.See if JS has a built in Intellisense,Compiler,OOP architecture
+6.How to call js scripts from html,Razor, HTML,CSS
