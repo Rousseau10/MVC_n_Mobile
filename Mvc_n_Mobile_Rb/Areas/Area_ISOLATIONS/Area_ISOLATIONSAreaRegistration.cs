@@ -17,7 +17,8 @@ namespace Mvc_n_Mobile_Rb.Areas.Area_ISOLATIONS
             context.MapRoute(
                 "Area_ISOLATIONS_default",
                 "Area_ISOLATIONS/{controller}/{action}/{id}",
-                new { action = "Index", id = UrlParameter.Optional }
+               //ew { action = "Index", id = UrlParameter.Optional }
+                new { action = "TestView", id=UrlParameter.Optional }
             );
         }
     }

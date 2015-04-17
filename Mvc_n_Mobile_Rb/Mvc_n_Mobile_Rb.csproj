@@ -147,7 +147,8 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Areas\Area_ISOLATIONS\Area_ISOLATIONSAreaRegistration.cs" />
-    <Compile Include="Areas\Area_ISOLATIONS\Classes\1UI.cs" />
+    <Compile Include="Areas\Area_ISOLATIONS\Classes\_UI\Rsxes.cs" />
+    <Compile Include="Areas\Area_ISOLATIONS\Controllers\RsxController.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -225,6 +226,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Areas\Area_ISOLATIONS\Views\Web.config" />
+    <Content Include="Areas\Area_ISOLATIONS\Views\Rsx\TestView.cshtml" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <Content Include="_NOTE_using_GIT_Repo.txt" />
     <Content Include="Scripts\jquery-1.8.2.js" />
@@ -268,8 +270,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Area_ISOLATIONS\Classes\BL\" />
     <Folder Include="Areas\Area_ISOLATIONS\Classes\DAL\" />
-    <Folder Include="Areas\Area_ISOLATIONS\Classes\_UI\" />
-    <Folder Include="Areas\Area_ISOLATIONS\Controllers\" />
     <Folder Include="Areas\Area_ISOLATIONS\Models\" />
     <Folder Include="Areas\Area_ISOLATIONS\Views\Shared\" />
     <Folder Include="ISOLATIONS\ISOLATION_aaTEMPLATE\Classes\aUI\" />
