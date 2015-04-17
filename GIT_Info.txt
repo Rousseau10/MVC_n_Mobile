@@ -1,7 +1,8 @@
 Greenzonekicker@gmail.com
 M*z
 R10
-
+//Note the next 10 lines were a waste. All I needed to do was install software to Let TFS,my IDE, and GITHub work together 
+then, in team exploroer saw solution under GitHub Repo and just had to put in greenzonekicker yada credential for Github and my VSIDE had me logged into TFS as FlazzGordon who had more than readonly right so GitHub had no permission problems importing this solution and 2 projects infrom inside VS AFTER creating a project and selecting GIT as Repo (means TFS is still version control)
 ToImport TFS version control files(*notecould have used subversion or other). Needed to:
 1. create an account in https://flazzgordon.visualstudio.com/_user by creating new Microsoft email: GittiHub@outlook.com and INVITING GittiHub@outlook.com(keep dropdown at basic or can be stakeholder or MSDN subscriber)
 2.checks email and gets one from VS Online to join link
